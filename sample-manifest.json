@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1141a24d-eda0-4ce2-ba1d-c7abceca619f",
+  "export_job_id": "3dd06fe1-6c34-4550-8d9a-dd3673f3a0a2",
   "id_short": 392762,
-  "published_at": "2026-04-18T08:01:10Z",
+  "published_at": "2026-04-22T07:27:08Z",
   "repo_name": "all-restaurants-in-philadelphia-pennsylvania-us-sample-392762",
   "sample_asset_name": "beamstation_392762_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/392762/beamstation_392762_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 727,
-  "sample_sha256": "b28db7f835d5c26b39826651789f773a2a35e1a424a1ade7116cb03abbcdf20b",
-  "sample_size_bytes": 2352177,
-  "total_records": 7271
+  "sample_records": 720,
+  "sample_sha256": "a35cb9d1bc51b98f46be5ed799af568ce106febcdd37cbf86562ce44fd3b77cc",
+  "sample_size_bytes": 2347277,
+  "total_records": 7207
 }
